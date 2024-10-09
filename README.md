@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Leeroy Dilim, I am a fourth year computer science co-op student at the University of Manitoba. I am passionate in making people's lives easier and one way I do that is volunteer as a mentor at tech events, where I help teach young students or underrepresented people to be introduced in tech. Another way is that I like to make applications that are tailored to their users, focusing on creating features that make it easier for users to achieve their goals. A prominent goal in my projects is that I want to make it easier for people to do their jobs efficiently and live their life without frustrations.
+My name is Leeroy Dilim, I am a fourth year computer science co-op student at the University of Manitoba. I am passionate in using my skills to help people and one way I do that is volunteer as a mentor at tech events, where I help teach young students or underrepresented people to be introduced in tech. Another way is that I like to make applications that are tailored to their users, focusing on creating features that make it easier for users to achieve their goals. A prominent goal in my projects is that I want to make it easier for people to do their jobs efficiently and live their life without frustrations.
 
 ## Current Projects:
 
