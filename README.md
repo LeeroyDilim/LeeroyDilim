@@ -8,6 +8,7 @@ My name is Leeroy Dilim, I am a fourth year computer science co-op student at th
   * A transit mobile app built for android that provides real time bus stop and schedule information around the Winnipeg area.
   * Integrates Google Maps Static Maps and Winnipeg Transit API for real-time information
   * Built using Android Studio and Java
+  * [Video overview (1 min)](https://www.youtube.com/shorts/FAZGTWwWyyA)
     
 [COMP 4350: Software Engineering 2 Group Project](https://github.com/rainclouded/Concierge)
   * A hotel management software with the vision of bringing the hotel industry up to modern standards, ditching landline phones and instead using a website for users to request hotel services and inquire     information. It also features a staff dashboard where staff can process user tasks, manage incident reports, and do other hotel management operations.
