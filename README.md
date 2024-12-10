@@ -10,7 +10,7 @@ My name is Leeroy Dilim, I am a fourth year computer science co-op student at th
   * Built using Android Studio and Java
   * [Video overview (1 min)](https://www.youtube.com/shorts/FAZGTWwWyyA)
     
-[COMP 4350: Software Engineering 2 Group Project](https://github.com/rainclouded/Concierge)
+[Concierge: Software Engineering 2 Group Project](https://github.com/rainclouded/Concierge)
   * A hotel management software with the vision of bringing the hotel industry up to modern standards, ditching landline phones and instead using a website for users to request hotel services and inquire     information. It also features a staff dashboard where staff can process user tasks, manage incident reports, and do other hotel management operations.
   * This software features a microservice architecture, using .NET/C#, and Python/Flask to implement it's microservices. MongoDB and SQL will be used for our data layer.
   * Two front-ends will be created for this project. One built using React.js that is dedicated for guests, and another built using Angular that is dedicated for staff.
