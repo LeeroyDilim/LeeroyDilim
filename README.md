@@ -26,6 +26,8 @@ My name is Leeroy Dilim, I am a fourth year computer science co-op student at th
 ![GuestReport](https://github.com/user-attachments/assets/0ad11220-4dd9-49f7-a5b1-376fdeee3d94)
 
 #### Staff Site
+![StaffHome](https://github.com/user-attachments/assets/fceced4a-5aa6-4467-9261-4e7763173910)
+
 ##### Manage Staff & User Accounts
 ![StaffManageAccounts](https://github.com/user-attachments/assets/bd9649ae-85b3-4eed-a16f-4ff1dd05c3b1)
 
