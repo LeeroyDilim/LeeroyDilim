@@ -1,8 +1,7 @@
-## Hello there!
-
-My name is Leeroy Dilim, I am a fourth year computer science co-op student at the University of Manitoba. I am passionate in using my skills to help people and one way I do that is volunteer as a mentor at tech events, where I help teach young students or underrepresented people to be introduced in tech. Another way is that I like to make applications that are tailored to their users, focusing on creating features that make it easier for users to achieve their goals. A prominent goal in my projects is that I want to make it easier for people to do their jobs efficiently and live their life without frustrations.
-
 ## Projects:
+
+### CTRL + Serve
+  * Playable Game: https://leeroydilim.itch.io/ctrl-plus-serve
 
 ### [431Transit](https://github.com/LeeroyDilim/431Transit)
   * A transit mobile app built for android that provides real time bus stop and schedule information around the Winnipeg area.
