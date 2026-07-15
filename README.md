@@ -1,6 +1,7 @@
 ## Projects:
 
 ### CTRL + Serve
+  * Ctrl + Serve is a typing-based restaurant simulation game. Every single thing you do, such as walking to a station, chopping an ingredient, taking an order, or assembling a burger, is done by typing commands. 
   * Playable Game: https://leeroydilim.itch.io/ctrl-plus-serve
 
 ### [431Transit](https://github.com/LeeroyDilim/431Transit)
