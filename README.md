@@ -1,4 +1,7 @@
 ## Projects:
+### Untitled Typing Game
+  * A sequel to CTRL + Serve that takes the original game in an entirely new direction, with a greater emphasis on restaurant management and tycoon gameplay. The project builds on the feedback and lessons from the original game while expanding the concept into the game I originally envisioned.
+  * Passion project. I've loved programming ever since I started in high school. Now that I've graduated, I wanted to commit to continuing to grow outside of my studies, put the skills I've learned into practice, and keep building because I genuinely enjoy it. At the same time, I really believe in this game's concept and its potential, and I wanted to see how far I could take the idea.
 
 ### CTRL + Serve
   * Ctrl + Serve is a typing-based restaurant simulation game. Every single thing you do, such as walking to a station, chopping an ingredient, taking an order, or assembling a burger, is done by typing commands. 
